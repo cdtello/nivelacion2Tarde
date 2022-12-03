@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nivelacion2</string>
+
+    //Strings MainActivity
+    <string name="btn_home">HOME</string>
+
+    //Strings Catalogo
+    <string name="text_title">PRODUCTOS</string>
+    <string name="text_num1">Numero1: </string>
+    <string name="text_num2">Numero2:</string>
+    <string name="text_result">Resultado:</string>
+    <string name="btn_sum">Sumar</string>
+</resources>
